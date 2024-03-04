@@ -3,13 +3,27 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+h1,
+h2,
+h3,
+h4,
+p {
+  margin-bottom: 0;
+  margin-top: 0;
+}
 ul {
   list-style: none;
+  margin-bottom: 0;
+  margin-top: 0;
 }
 a {
   text-decoration: none;
+  margin-bottom: 0;
+  margin-top: 0;
 }
 .header {
+  padding-top: ;
+  padding-bottom: ;
 }
 .header-navigation {
 }
@@ -90,6 +104,11 @@ a {
 }
 .visually-hidden {
   overflow: hidden;
+}
+.container {
+  width: 1166px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 .strategy-list {
 }
