@@ -150,6 +150,8 @@ a {
   display: flex;
 }
 .strategy-list {
+  display: flex;
+  gap: 24px;
 }
 
 .strategy-item {
